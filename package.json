@@ -1,0 +1,32 @@
+{
+  "name": "koa-static-etag",
+  "version": "1.0.1",
+  "description": "静态资源启用304缓存机制",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/965283058/koa-static-etag.git"
+  },
+  "keywords": [
+    "koa-static-etag",
+    "koa-static-lastModified",
+    "koa-static",
+    "Etag",
+    "Last-Modified",
+    "koa",
+    "304",
+    "cache"
+  ],
+  "author": "965283058@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/965283058/koa-static-etag/issues"
+  },
+  "homepage": "https://github.com/965283058/koa-static-etag#readme",
+  "dependencies": {
+    "koa-send": "^4.1.0"
+  }
+}
