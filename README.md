@@ -7,7 +7,7 @@ Installation
 Install the plugin with npm:
 
 ```shell
-$ npm install koa-static-etag --save-dev
+$ npm install koa-static-etag --save
 ```
 
 
